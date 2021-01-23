@@ -6,7 +6,7 @@
   <!-- <a href="https://mozilladeveloperexpressusecase.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Mozilla Developer Express Usecase</h1>
+<h1 align="center">Mozilla Developer Express Use case - LocalLibrary</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/mozilla-developer-express-usecase?color=56BEB8">
@@ -39,7 +39,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/{{LimoVincent}}" target="_blank">Author</a>
 </p>
 
 <br>
@@ -58,11 +58,8 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+
 
 ## :white_check_mark: Requirements ##
 
@@ -76,12 +73,14 @@ $ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/mozilla-developer-expres
 
 # Access
 $ cd mozilla-developer-express-usecase
+$ npm install
 
 # Install dependencies
-$ yarn
+$ npm 
 
 # Run the project
-$ yarn start
+$ npm start
+
 
 # The server will initialize in the <http://localhost:3000>
 ```
@@ -91,7 +90,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/{{LimoVincent}}" target="_blank">{{Vincent Limo}}</a>
 
 &#xa0;
 
